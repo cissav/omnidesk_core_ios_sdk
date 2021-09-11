@@ -1,0 +1,1 @@
+Omnidesk iOS Core SDK
